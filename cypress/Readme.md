@@ -100,6 +100,3 @@ cy.checkApiConnectivity();
 
 ---
 
-## 🏁 License
-
-MIT
