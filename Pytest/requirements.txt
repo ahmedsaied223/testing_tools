@@ -1,0 +1,8 @@
+pytest>=7.0.0
+pytest-html>=3.0.0
+pytest-xdist>=2.0.0
+pytest-cov>=3.0.0
+requests>=2.25.0
+pytest-ordering>=0.6.0
+pytest-dependency>=0.5.0
+Faker>=8.0.0
