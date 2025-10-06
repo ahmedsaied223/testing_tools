@@ -1,8 +1,4 @@
 
-Ahmed Ahmed s <ahmed.ahmed.s.qa@gmail.com>
-3:47 PM (1 minute ago)
-to modyyy.aa
-
 Key Features of This Framework:
 
 1. Modular Architecture: Separated concerns with fixtures, pages, and specs
